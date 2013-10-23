@@ -1,4 +1,4 @@
-Star_Field
+Star Field
 ==========
 
 A simple Star Field demo for the Adafruit 2.2" TFT and Arduino
